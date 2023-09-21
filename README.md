@@ -23,4 +23,4 @@ Hands-on spring web application project, EazySchool (school management system). 
 
 ## Certification
 
-- [Completion Certificate](https://drive.google.com/drive/u/1/folders/1nJMaN6FjbyDNNVTpSbpsxf5YOuaLHuOT)
+- [Completion Certificate](https://drive.google.com/file/d/16EjqqiNQJAAGDcRtrJo-AB_UQIRri_4H/view?usp=sharing)
