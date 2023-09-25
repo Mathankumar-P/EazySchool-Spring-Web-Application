@@ -17,7 +17,7 @@ public @interface FieldsValueMatch {
     Class<?>[] groups() default {};
     Class<? extends Payload>[] payload() default {};
 
-    String message() default "Fields values don't match!";
+    String message() default "Fields values are not Matching!";
 
     String field();
 
