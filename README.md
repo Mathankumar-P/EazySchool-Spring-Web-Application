@@ -16,11 +16,3 @@ Hands-on spring web application project, EazySchool (school management system). 
 
 
 
-## Acknowledgements
-
- - [Master Spring 6, Spring Boot 3, REST, JPA, Hibernate](https://www.udemy.com/course/spring-springboot-jpa-hibernate-zero-to-master/)
-
-
-## Certification
-
-- [Completion Certificate](https://drive.google.com/file/d/16EjqqiNQJAAGDcRtrJo-AB_UQIRri_4H/view?usp=sharing)
